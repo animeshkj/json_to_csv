@@ -1,0 +1,111 @@
+[
+    {
+        "area": 582650, 
+        "birth_rate": 40.13, 
+        "continent": "Africa", 
+        "country": "Kenya", 
+        "gdp_per_capita": 1100, 
+        "inflation_rate": 9, 
+        "life_expectancy": 47.99, 
+        "population": 33829590, 
+        "unemployment_rate": 40
+    }, 
+    {
+        "area": 600370, 
+        "birth_rate": 23.33, 
+        "continent": "Africa", 
+        "country": "Botswana", 
+        "gdp_per_capita": 9200, 
+        "inflation_rate": 7, 
+        "life_expectancy": 33.87, 
+        "population": 1640115, 
+        "unemployment_rate": 23.8
+    }, 
+    {
+        "area": 9250, 
+        "birth_rate": 12.57, 
+        "continent": "Europe", 
+        "country": "Cyprus", 
+        "gdp_per_capita": 7135, 
+        "inflation_rate": 2.4, 
+        "life_expectancy": 77.65, 
+        "population": 780133, 
+        "unemployment_rate": 3.2
+    }, 
+    {
+        "area": 41526, 
+        "birth_rate": 11.14, 
+        "continent": "Europe", 
+        "country": "Netherlands", 
+        "gdp_per_capita": 29500, 
+        "inflation_rate": 1.4, 
+        "life_expectancy": 78.81, 
+        "population": 16407491, 
+        "unemployment_rate": 6
+    }, 
+    {
+        "area": 78866, 
+        "birth_rate": 9.07, 
+        "continent": "Europe", 
+        "country": "Czech Republic", 
+        "gdp_per_capita": 16800, 
+        "inflation_rate": 3.2, 
+        "life_expectancy": 76.02, 
+        "population": 10241138, 
+        "unemployment_rate": 10.6
+    }, 
+    {
+        "area": 344, 
+        "birth_rate": 22.3, 
+        "continent": "North America", 
+        "country": "Grenada", 
+        "gdp_per_capita": 5000, 
+        "inflation_rate": 2.8, 
+        "life_expectancy": 64.53, 
+        "population": 89502, 
+        "unemployment_rate": 12.5
+    }, 
+    {
+        "area": 83870, 
+        "birth_rate": 8.81, 
+        "continent": "Europe", 
+        "country": "Austria", 
+        "gdp_per_capita": 31300, 
+        "inflation_rate": 1.8, 
+        "life_expectancy": 78.92, 
+        "population": 8184691, 
+        "unemployment_rate": 4.4
+    }, 
+    {
+        "area": 48845, 
+        "birth_rate": 10.62, 
+        "continent": "Europe", 
+        "country": "Slovakia", 
+        "gdp_per_capita": 14500, 
+        "inflation_rate": 7.5, 
+        "life_expectancy": 74.5, 
+        "population": 5431363, 
+        "unemployment_rate": 13.1
+    }, 
+    {
+        "area": 1001450, 
+        "birth_rate": 23.32, 
+        "continent": "Africa", 
+        "country": "Egypt", 
+        "gdp_per_capita": 4200, 
+        "inflation_rate": 9.5, 
+        "life_expectancy": 71, 
+        "population": 77505756, 
+        "unemployment_rate": 10.9
+    }, 
+    {
+        "area": 3287590, 
+        "birth_rate": 22.32, 
+        "continent": "Burma", 
+        "country": "India", 
+        "gdp_per_capita": 3100, 
+        "life_expectancy": 64.35, 
+        "population": 1080264388, 
+        "unemployment_rate": 9.2
+    }, 
+]
